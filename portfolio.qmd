@@ -78,12 +78,8 @@ aria-label="Projeto 4"></button>
 
 <div class="ac-project-video">
 
-<video
-controls
-preload="none"
-playsinline
->
-<source src="imagens/Demonstração_chatbot.mp4" type="video/mp4">
+<video controls preload="none" playsinline poster="imagens/capa_chatbot.jpg">
+  <source src="imagens/Demonstração_chatbot.mp4" type="video/mp4">
 </video>
 
 </div>
@@ -305,12 +301,8 @@ Marcos Rodrigues Imóveis
 
 <div class="ac-project-video">
 
-<video
-controls
-preload="none"
-playsinline
->
-<source src="imagens/Demonstração_robo_estoque.mp4" type="video/mp4">
+<video controls preload="none" playsinline poster="imagens/capa_estoque.jpg">
+  <source src="imagens/Demonstração_robo_estoque.mp4" type="video/mp4">
 </video>
 
 </div>
@@ -477,12 +469,8 @@ Uma interface extremamente simples — o próprio WhatsApp — pode ser utilizad
 
 <div class="ac-project-video">
 
-<video
-controls
-preload="none"
-playsinline
->
-<source src="imagens/Demonstração_MercadoLivre.mp4" type="video/mp4">
+<video controls preload="none" playsinline poster="imagens/capa_promocoes.jpg">
+  <source src="imagens/Demonstração_MercadoLivre.mp4" type="video/mp4">
 </video>
 
 </div>
@@ -650,12 +638,8 @@ A mesma arquitetura pode ser utilizada em projetos empresariais de:
 
 <div class="ac-project-video">
 
-<video
-controls
-preload="none"
-playsinline
->
-<source src="imagens/Video_site_casamento.mp4" type="video/mp4">
+<video controls preload="none" playsinline poster="imagens/capa_casamento.jpg">
+  <source src="imagens/Video_site_casamento.mp4" type="video/mp4">
 </video>
 
 </div>
