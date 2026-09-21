@@ -254,7 +254,7 @@ controls
 preload="none"
 playsinline
 >
-<source src="imagens/Demonstração_chatbot_comprimido.mp4" type="video/mp4">
+<source src="imagens/Demonstração_chatbot.mp4" type="video/mp4">
 </video>
 
 </div>
@@ -326,7 +326,7 @@ controls
 preload="none"
 playsinline
 >
-<source src="imagens/Demonstração_robo_estoque_comprimido.mp4" type="video/mp4">
+<source src="imagens/Demonstração_robo_estoque.mp4" type="video/mp4">
 </video>
 
 </div>
@@ -398,7 +398,7 @@ controls
 preload="none"
 playsinline
 >
-<source src="imagens/Demonstração_MercadoLivre_comprimido.mp4" type="video/mp4">
+<source src="imagens/Demonstração_MercadoLivre.mp4" type="video/mp4">
 </video>
 
 </div>
@@ -470,7 +470,7 @@ controls
 preload="none"
 playsinline
 >
-<source src="imagens/Video_site_casamento_comprimido.mp4" type="video/mp4">
+<source src="imagens/Video_site_casamento.mp4" type="video/mp4">
 </video>
 
 </div>
