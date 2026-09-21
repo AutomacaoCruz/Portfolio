@@ -1,0 +1,17 @@
+# RStudio
+.Rproj.user/
+
+# Quarto
+.quarto/
+
+# Site gerado
+_site/
+
+# Arquivos temporários do R
+.Rhistory
+.RData
+.Ruserdata
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
