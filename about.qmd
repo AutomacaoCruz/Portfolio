@@ -216,7 +216,7 @@ Existe um processo que consome tempo demais?
 Podemos analisar como sua empresa trabalha hoje e identificar oportunidades para reduzir tarefas manuais, organizar informações e melhorar processos.
 </p>
 
-<a href="index.qmd#contato"
+<a href="index.html#contato"
 class="btn btn-success btn-lg px-5 py-3">
 Quero conversar sobre um projeto
 </a>

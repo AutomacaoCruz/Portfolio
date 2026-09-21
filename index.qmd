@@ -20,7 +20,7 @@ Transformamos processos manuais em sistemas que trabalham sozinhos.
 Desenvolvemos automações sob medida para atendimento, vendas, estoque, dados e operações — utilizando WhatsApp, Inteligência Artificial, dashboards e integrações.
 </p>
 
-<a href="portfolio.qmd" class="btn btn-primary btn-lg px-4 py-3 me-2">
+<a href="portfolio.html" class="btn btn-primary btn-lg px-4 py-3 me-2">
 Conhecer nossos projetos
 </a>
 
@@ -294,7 +294,7 @@ contatos registrados em 30 dias
 
 </div>
 
-<a href="portfolio.qmd" class="btn btn-outline-primary">
+<a href="portfolio.html" class="btn btn-outline-primary">
 Ver case completo →
 </a>
 
@@ -366,7 +366,7 @@ registro de movimentações sem preencher planilhas
 
 </div>
 
-<a href="portfolio.qmd" class="btn btn-outline-primary">
+<a href="portfolio.html" class="btn btn-outline-primary">
 Ver projeto →
 </a>
 
@@ -438,7 +438,7 @@ produtos analisados
 
 </div>
 
-<a href="portfolio.qmd" class="btn btn-outline-primary">
+<a href="portfolio.html" class="btn btn-outline-primary">
 Ver projeto →
 </a>
 
@@ -510,7 +510,7 @@ experiência desenvolvida sob medida
 
 </div>
 
-<a href="portfolio.qmd" class="btn btn-outline-primary">
+<a href="portfolio.html" class="btn btn-outline-primary">
 Ver projeto →
 </a>
 
@@ -562,7 +562,7 @@ Próximo
 
 <div style="text-align: center; margin: 35px 0 20px 0;">
 
-<a href="portfolio.qmd" class="btn btn-primary btn-lg px-5">
+<a href="portfolio.html" class="btn btn-primary btn-lg px-5">
 Ver todos os projetos
 </a>
 

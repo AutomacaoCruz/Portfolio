@@ -825,7 +825,7 @@ Não encontrou exatamente o que procura?
 Cada negócio possui processos diferentes. Se existe uma tarefa repetitiva, uma informação que precisa ser organizada ou um sistema que você gostaria de ter, podemos desenvolver uma solução sob medida.
 </p>
 
-<a href="index.qmd#contato" class="btn btn-success btn-lg px-5 py-3">
+<a href="index.html#contato" class="btn btn-success btn-lg px-5 py-3">
 Quero conversar sobre meu projeto
 </a>
 
