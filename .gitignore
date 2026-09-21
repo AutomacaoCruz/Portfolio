@@ -15,3 +15,6 @@ _site/
 # Arquivos do sistema
 .DS_Store
 Thumbs.db
+
+/.quarto/
+**/*.quarto_ipynb
