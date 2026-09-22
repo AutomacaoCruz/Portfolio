@@ -1,8 +1,11 @@
 project:
   type: website
+  resources:
+    - "imagens/capa_*.jpg"
 
 website:
   title: "Automações Cruz | Desenvolvimento de Software e Automações"
+  description: "Transformamos processos manuais em sistemas que trabalham sozinhos. Automações sob medida, chatbots para WhatsApp, inteligência artificial e dashboards."
 
   navbar:
     left:

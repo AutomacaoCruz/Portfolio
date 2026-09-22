@@ -78,7 +78,7 @@ aria-label="Projeto 4"></button>
 
 <div class="ac-project-video">
 
-<video controls preload="none" playsinline poster="imagens/capa_chatbot.jpg">
+<video controls preload="none" playsinline >
   <source src="imagens/Demonstração_chatbot.mp4" type="video/mp4">
 </video>
 
@@ -262,16 +262,16 @@ Google Sheets para registro dos contatos e Render para manter a aplicação em o
 <div style="background-color: #f8fafc; border-left: 5px solid #25d366; padding: 25px 30px; margin-top: 20px;">
 
 <p style="font-size: 1.05rem; font-style: italic; line-height: 1.7;">
-"O Gabriel fez um excelente trabalho no desenvolvimento do robô de autoatendimento da Marcos Rodrigues Imóveis. Além da grande capacidade técnica, sempre demonstrou muita atenção e disposição para explicar cada etapa do processo de forma clara e acessível."
+"O Gabriel fez um excelente trabalho no desenvolvimento do robô de autoatendimento da Marcos Rodrigues Imóveis. A solução tornou o primeiro atendimento mais organizado e automatizado, facilitando o registro dos contatos e o encaminhamento das informações para nossa equipe.
+"
 </p>
 
 <p style="font-size: 1.05rem; font-style: italic; line-height: 1.7;">
-"Um profissional competente, cuidadoso e comprometido com a qualidade da entrega. Recomendo muito o trabalho!"
+"Além da capacidade técnica, sempre demonstrou muita atenção, disposição para explicar cada etapa do processo e compromentimento com a qualidade da entrega. Recomendo muito o trabalho!"
 </p>
 
-<p style="font-weight: bold; margin-bottom: 0;">
-— Diego Neves
-</p>
+<p style="font-weight: bold; margin-bottom: 0;">— Diego Neves</p>
+<p class="text-muted">Analista de Relacionamento</p>
 
 <p class="text-muted">
 Marcos Rodrigues Imóveis
@@ -301,7 +301,7 @@ Marcos Rodrigues Imóveis
 
 <div class="ac-project-video">
 
-<video controls preload="none" playsinline poster="imagens/capa_estoque.jpg">
+<video controls preload="none" playsinline>
   <source src="imagens/Demonstração_robo_estoque.mp4" type="video/mp4">
 </video>
 
@@ -469,7 +469,7 @@ Uma interface extremamente simples — o próprio WhatsApp — pode ser utilizad
 
 <div class="ac-project-video">
 
-<video controls preload="none" playsinline poster="imagens/capa_promocoes.jpg">
+<video controls preload="none" playsinline>
   <source src="imagens/Demonstração_MercadoLivre.mp4" type="video/mp4">
 </video>
 
@@ -638,7 +638,7 @@ A mesma arquitetura pode ser utilizada em projetos empresariais de:
 
 <div class="ac-project-video">
 
-<video controls preload="none" playsinline poster="imagens/capa_casamento.jpg">
+<video controls preload="none" playsinline>
   <source src="imagens/Video_site_casamento.mp4" type="video/mp4">
 </video>
 
@@ -814,5 +814,3 @@ Quero conversar sobre meu projeto
 </a>
 
 </div>
-
-:::

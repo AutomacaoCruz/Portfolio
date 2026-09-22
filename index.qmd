@@ -249,7 +249,7 @@ aria-label="Projeto 4"></button>
 
 <div class="ac-project-video">
 
-<video controls preload="none" playsinline poster="imagens/capa_chatbot.jpg">
+<video controls preload="none" playsinline>
   <source src="imagens/Demonstração_chatbot.mp4" type="video/mp4">
 </video>
 
@@ -290,7 +290,7 @@ contatos registrados em 30 dias
 
 </div>
 
-<a href="portfolio.html" class="btn btn-outline-primary">
+<a href="portfolio.html#projetos" class="btn btn-outline-primary">
 Ver case completo →
 </a>
 
@@ -318,7 +318,7 @@ Ver case completo →
 <div class="ac-project-video">
 
 
-<video controls preload="none" playsinline poster="imagens/capa_estoque.jpg">
+<video controls preload="none" playsinline>
   <source src="imagens/Demonstração_robo_estoque.mp4" type="video/mp4">
 </video>
 
@@ -359,7 +359,7 @@ registro de movimentações sem preencher planilhas
 
 </div>
 
-<a href="portfolio.html" class="btn btn-outline-primary">
+<a href="portfolio.html#projetos" class="btn btn-outline-primary">
 Ver projeto →
 </a>
 
@@ -387,7 +387,7 @@ Ver projeto →
 <div class="ac-project-video">
 
 
-<video controls preload="none" playsinline poster="imagens/capa_promocoes.jpg">
+<video controls preload="none" playsinline>
   <source src="imagens/Demonstração_MercadoLivre.mp4" type="video/mp4">
 </video>
 
@@ -428,7 +428,7 @@ produtos analisados
 
 </div>
 
-<a href="portfolio.html" class="btn btn-outline-primary">
+<a href="portfolio.html#projetos" class="btn btn-outline-primary">
 Ver projeto →
 </a>
 
@@ -455,7 +455,7 @@ Ver projeto →
 
 <div class="ac-project-video">
 
-<video controls preload="none" playsinline poster="imagens/capa_casamento.jpg">
+<video controls preload="none" playsinline>
   <source src="imagens/Video_site_casamento.mp4" type="video/mp4">
 </video>
 
@@ -496,7 +496,7 @@ experiência desenvolvida sob medida
 
 </div>
 
-<a href="portfolio.html" class="btn btn-outline-primary">
+<a href="portfolio.html#projetos" class="btn btn-outline-primary">
 Ver projeto →
 </a>
 
@@ -590,10 +590,8 @@ Tem um processo que poderia ser automatizado?
 Conte como sua empresa trabalha hoje. Podemos analisar o processo e identificar onde a automação pode gerar mais resultado.
 </p>
 
-<a href="https://wa.me/5521978814554?text=Olá!%20Visitei%20o%20site%20da%20Automações%20Cruz%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto." class="btn btn-success btn-lg px-5 py-3">
-Quero conversar sobre meu projeto
+<a href="https://wa.me/5521978814554?text=Olá!%20Gostaria%20de%20um%20diagnóstico%20gratuito%20sobre%20automação%20para%20o%20meu%20negócio." class="btn btn-success btn-lg px-5 py-3">
+Agendar diagnóstico gratuito no WhatsApp
 </a>
 
 </div>
-
-:::
