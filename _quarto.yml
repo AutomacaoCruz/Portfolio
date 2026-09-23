@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - "imagens/capa_*.jpg"
+    - "CNAME"
 
 website:
   title: "Automações Cruz | Desenvolvimento de Software e Automações"
