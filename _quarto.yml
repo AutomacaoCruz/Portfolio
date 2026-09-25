@@ -3,6 +3,7 @@ project:
   resources:
     - "imagens/capa_*.jpg"
     - "CNAME"
+    - "imagens/*.mp4"
 
 website:
   title: "Automações Cruz | Desenvolvimento de Software e Automações"
