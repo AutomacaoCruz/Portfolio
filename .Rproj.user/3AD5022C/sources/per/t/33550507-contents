@@ -1,0 +1,816 @@
+---
+page-layout: full
+---
+
+::: {.column-screen-inset style="padding-top: 50px; padding-bottom: 60px;"}
+
+<div class="ac-hero">
+
+<div class="ac-hero-label">
+PORTFÓLIO
+</div>
+
+<h1 style="font-size: 3rem;">
+Projetos que desenvolvemos
+</h1>
+
+<p style="font-size: 1.25rem; max-width: 850px; margin: 20px auto 0 auto; line-height: 1.7;">
+Soluções desenvolvidas para automatizar processos, organizar informações e transformar problemas reais em sistemas que funcionam na prática.
+</p>
+
+</div>
+
+
+## Projetos
+
+<p class="ac-section-subtitle">
+Use as setas para navegar pelos projetos.
+</p>
+
+
+<div id="portfolioCarousel"
+class="carousel slide carousel-fade ac-project-carousel"
+data-bs-interval="false">
+
+
+<div class="carousel-indicators">
+
+<button type="button"
+data-bs-target="#portfolioCarousel"
+data-bs-slide-to="0"
+class="active"
+aria-current="true"
+aria-label="Projeto 1"></button>
+
+<button type="button"
+data-bs-target="#portfolioCarousel"
+data-bs-slide-to="1"
+aria-label="Projeto 2"></button>
+
+<button type="button"
+data-bs-target="#portfolioCarousel"
+data-bs-slide-to="2"
+aria-label="Projeto 3"></button>
+
+<button type="button"
+data-bs-target="#portfolioCarousel"
+data-bs-slide-to="3"
+aria-label="Projeto 4"></button>
+
+</div>
+
+
+<div class="carousel-inner">
+
+
+<!-- =====================================================
+     PROJETO 1
+     ===================================================== -->
+
+<div class="carousel-item active">
+
+<div class="ac-project-slide">
+
+<div class="row align-items-center">
+
+
+<div class="col-lg-6">
+
+<div class="ac-project-video">
+
+<video controls preload="none" playsinline >
+  <source src="imagens/demonstracao_chatbot.mp4" type="video/mp4">
+</video>
+
+</div>
+
+</div>
+
+
+<div class="col-lg-6">
+
+<div class="ac-project-info">
+
+<div class="ac-project-number">
+01 — CASE REAL
+</div>
+
+<span class="ac-badge ac-badge-green">
+CLIENTE
+</span>
+
+<h2>
+Automação de atendimento imobiliário
+</h2>
+
+<p>
+Assistente automatizado conectado ao WhatsApp para realizar o primeiro atendimento, identificar o interesse do contato e organizar as informações para a equipe responsável.
+</p>
+
+<div class="ac-result">
+
+<div class="ac-result-number">
+225+
+</div>
+
+<div class="ac-result-label">
+contatos registrados nos últimos 30 dias
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+<details class="ac-detail">
+
+<summary>
+Ver detalhes do case
+</summary>
+
+<h3>O desafio</h3>
+
+<p>
+Uma imobiliária recebe diariamente pessoas interessadas em comprar ou alugar imóveis pelo WhatsApp.
+</p>
+
+<p>
+O atendimento inicial envolve perguntas, identificação do interesse e coleta de informações que precisam chegar aos corretores.
+</p>
+
+<p>
+Quando esse processo é feito manualmente, existe o risco de perder tempo e deixar um potencial cliente esperando.
+</p>
+
+
+<h3>A solução</h3>
+
+<p>
+Desenvolvemos um assistente automatizado conectado ao WhatsApp capaz de realizar o primeiro atendimento e organizar as informações do interessado.
+</p>
+
+<ul>
+
+<li>responde automaticamente;</li>
+<li>identifica se o cliente procura compra ou locação;</li>
+<li>coleta os dados necessários;</li>
+<li>registra o contato;</li>
+<li>envia as informações para a equipe responsável.</li>
+
+</ul>
+
+
+<h3>Como funciona</h3>
+
+<div class="ac-flow">
+
+Cliente
+&nbsp; → &nbsp;
+WhatsApp
+&nbsp; → &nbsp;
+Assistente
+&nbsp; → &nbsp;
+Triagem
+&nbsp; → &nbsp;
+Registro automático
+&nbsp; → &nbsp;
+Corretor
+
+</div>
+
+
+<h3>O que foi automatizado</h3>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<h4>Atendimento inicial</h4>
+
+<p class="text-muted">
+O assistente responde ao contato e conduz a conversa pelo WhatsApp.
+</p>
+
+<h4>Identificação do interesse</h4>
+
+<p class="text-muted">
+O sistema identifica se o interessado busca compra ou locação.
+</p>
+
+:::
+
+::: {.column width="50%"}
+
+<h4>Organização das informações</h4>
+
+<p class="text-muted">
+Os dados coletados durante o atendimento são estruturados e registrados automaticamente.
+</p>
+
+<h4>Encaminhamento para a equipe</h4>
+
+<p class="text-muted">
+O corretor responsável recebe as informações necessárias para dar continuidade ao atendimento.
+</p>
+
+:::
+
+::::
+
+
+<h3>Arquitetura da solução</h3>
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+<h4>Atendimento</h4>
+
+<p class="text-muted">
+WhatsApp + assistente automatizado para conduzir o primeiro contato e realizar a triagem.
+</p>
+
+:::
+
+::: {.column width="33%"}
+
+<h4>Processamento</h4>
+
+<p class="text-muted">
+Backend desenvolvido em R e Plumber para receber, processar e encaminhar as informações.
+</p>
+
+:::
+
+::: {.column width="33%"}
+
+<h4>Dados e operação</h4>
+
+<p class="text-muted">
+Google Sheets para registro dos contatos e Render para manter a aplicação em operação.
+</p>
+
+::::
+
+
+<h3>Depoimento</h3>
+
+<div style="background-color: #f8fafc; border-left: 5px solid #25d366; padding: 25px 30px; margin-top: 20px;">
+
+<p style="font-size: 1.05rem; font-style: italic; line-height: 1.7;">
+"O Gabriel fez um excelente trabalho no desenvolvimento do robô de autoatendimento da Marcos Rodrigues Imóveis. A solução tornou o primeiro atendimento mais organizado e automatizado, facilitando o registro dos contatos e o encaminhamento das informações para nossa equipe.
+"
+</p>
+
+<p style="font-size: 1.05rem; font-style: italic; line-height: 1.7;">
+"Além da capacidade técnica, sempre demonstrou muita atenção, disposição para explicar cada etapa do processo e compromentimento com a qualidade da entrega. Recomendo muito o trabalho!"
+</p>
+
+<p style="font-weight: bold; margin-bottom: 0;">— Diego Neves</p>
+<p class="text-muted">Analista de Relacionamento</p>
+
+<p class="text-muted">
+Marcos Rodrigues Imóveis
+</p>
+
+</div>
+
+</details>
+
+</div>
+
+</div>
+
+
+<!-- =====================================================
+     PROJETO 2
+     ===================================================== -->
+
+<div class="carousel-item">
+
+<div class="ac-project-slide">
+
+<div class="row align-items-center">
+
+
+<div class="col-lg-6">
+
+<div class="ac-project-video">
+
+<video controls preload="none" playsinline>
+  <source src="imagens/demonstracao_robo_estoque.mp4" type="video/mp4">
+</video>
+
+</div>
+
+</div>
+
+
+<div class="col-lg-6">
+
+<div class="ac-project-info">
+
+<div class="ac-project-number">
+02 — DEMONSTRAÇÃO
+</div>
+
+<span class="ac-badge ac-badge-gray">
+PROJETO DEMONSTRATIVO
+</span>
+
+<h2>
+Controle de estoque por WhatsApp + IA
+</h2>
+
+<p>
+Assistente de estoque que recebe mensagens de texto ou áudio e transforma as informações em movimentações estruturadas.
+</p>
+
+<div class="ac-result">
+
+<div class="ac-result-number">
+WhatsApp + IA
+</div>
+
+<div class="ac-result-label">
+registro de movimentações sem preencher planilhas
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+<details class="ac-detail">
+
+<summary>
+Ver detalhes do projeto
+</summary>
+
+<h3>O desafio</h3>
+
+<p>
+Em uma operação como uma padaria, funcionários precisam registrar constantemente produtos que chegaram, foram retirados do estoque ou utilizados na produção.
+</p>
+
+<p>
+Parar o trabalho para preencher uma planilha pode tornar o processo lento e aumentar a quantidade de informações que deixam de ser registradas.
+</p>
+
+
+<h3>A solução</h3>
+
+<p>
+Desenvolvemos um assistente de estoque que recebe mensagens diretamente pelo WhatsApp.
+</p>
+
+<p>
+O funcionário pode escrever ou simplesmente enviar um áudio explicando o que aconteceu.
+</p>
+
+<p>
+A Inteligência Artificial interpreta a mensagem e transforma a informação em movimentações estruturadas.
+</p>
+
+
+<h3>Exemplos</h3>
+
+<blockquote>
+"Chegaram 10 fardos de saco kraft para embalagem e 3 caixas de manteiga extra."
+</blockquote>
+
+<p>
+O sistema identifica os produtos e suas respectivas quantidades.
+</p>
+
+<blockquote>
+"Tirei da câmara fria duas peças de peito de peru, uma peça de queijo minas e peguei quatro sacos de farinha especial para bater a massa da ciabatta."
+</blockquote>
+
+<p>
+A IA interpreta a movimentação e organiza as entradas e saídas.
+</p>
+
+
+<h3>O fluxo</h3>
+
+<div class="ac-flow">
+
+Funcionário
+&nbsp; → &nbsp;
+Texto ou áudio
+&nbsp; → &nbsp;
+IA
+&nbsp; → &nbsp;
+Interpretação
+&nbsp; → &nbsp;
+Registro
+
+</div>
+
+
+<h3>O que essa solução demonstra</h3>
+
+<p>
+Uma interface extremamente simples — o próprio WhatsApp — pode ser utilizada como porta de entrada para processos internos.
+</p>
+
+<ul>
+
+<li>controle de estoque;</li>
+<li>movimentação de materiais;</li>
+<li>registro de produção;</li>
+<li>acompanhamento de atividades;</li>
+<li>comunicação de equipes;</li>
+<li>coleta de informações operacionais.</li>
+
+</ul>
+
+
+<h3>Arquitetura</h3>
+
+<div style="text-align: center; margin: 25px 0;">
+
+<span class="ac-tech">WhatsApp</span>
+<span class="ac-tech">IA</span>
+<span class="ac-tech">Gemini</span>
+<span class="ac-tech">Google Sheets</span>
+<span class="ac-tech">R</span>
+
+</div>
+
+</details>
+
+</div>
+
+</div>
+
+
+<!-- =====================================================
+     PROJETO 3
+     ===================================================== -->
+
+<div class="carousel-item">
+
+<div class="ac-project-slide">
+
+<div class="row align-items-center">
+
+
+<div class="col-lg-6">
+
+<div class="ac-project-video">
+
+<video controls preload="none" playsinline>
+  <source src="imagens/demonstracao_mercado_livre.mp4" type="video/mp4">
+</video>
+
+</div>
+
+</div>
+
+
+<div class="col-lg-6">
+
+<div class="ac-project-info">
+
+<div class="ac-project-number">
+03 — PRODUTO
+</div>
+
+<span class="ac-badge ac-badge-blue">
+PRODUTO PRÓPRIO
+</span>
+
+<h2>
+Radar de Promoções e Afiliados
+</h2>
+
+<p>
+Plataforma própria para coleta, processamento e visualização de dados de promoções, com dashboards e estrutura para divulgação de produtos.
+</p>
+
+<div class="ac-result">
+
+<div class="ac-result-number">
+1.208
+</div>
+
+<div class="ac-result-label">
+produtos analisados
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+<details class="ac-detail">
+
+<summary>
+Ver detalhes do projeto
+</summary>
+
+<h3>O desafio</h3>
+
+<p>
+Encontrar manualmente produtos em promoção, comparar preços, organizar informações e identificar oportunidades de divulgação pode consumir muitas horas.
+</p>
+
+<p>
+Quando a quantidade de produtos aumenta, esse processo se torna ainda mais difícil de acompanhar.
+</p>
+
+
+<h3>A solução</h3>
+
+<p>
+Criamos uma plataforma própria para coleta, processamento e visualização de dados de promoções.
+</p>
+
+<p>
+O sistema realiza uma varredura automática, organiza os produtos encontrados e disponibiliza as informações em um dashboard.
+</p>
+
+
+<h3>A plataforma possui</h3>
+
+<ul>
+
+<li>Dashboard geral;</li>
+<li>Top Promoções;</li>
+<li>análise por categorias;</li>
+<li>Catálogo Inteligente;</li>
+<li>filtros avançados;</li>
+<li>dados atualizados diariamente;</li>
+<li>Painel do Afiliado;</li>
+<li>estrutura para geração e divulgação de links de afiliado.</li>
+
+</ul>
+
+
+<h3>Da coleta ao dashboard</h3>
+
+<div class="ac-flow">
+
+Web
+&nbsp; → &nbsp;
+Coleta automática
+&nbsp; → &nbsp;
+Processamento
+&nbsp; → &nbsp;
+Base de dados
+&nbsp; → &nbsp;
+Dashboard
+&nbsp; → &nbsp;
+Ação
+
+</div>
+
+
+<h3>O que esse projeto demonstra</h3>
+
+<p>
+O Radar de Promoções é um exemplo de produto desenvolvido do zero, envolvendo coleta automatizada de dados, tratamento das informações, criação de indicadores e desenvolvimento de uma plataforma de acesso aos dados.
+</p>
+
+<p>
+A mesma arquitetura pode ser utilizada em projetos empresariais de:
+
+</p>
+
+<ul>
+
+<li>monitoramento de preços;</li>
+<li>acompanhamento de concorrentes;</li>
+<li>coleta de dados;</li>
+<li>inteligência comercial;</li>
+<li>relatórios automatizados;</li>
+<li>monitoramento de informações na web.</li>
+
+</ul>
+
+
+<h3>Arquitetura</h3>
+
+<div style="text-align: center; margin: 25px 0;">
+
+<span class="ac-tech">R</span>
+<span class="ac-tech">Shiny</span>
+<span class="ac-tech">Web Scraping</span>
+<span class="ac-tech">Dashboards</span>
+<span class="ac-tech">Google Sheets</span>
+<span class="ac-tech">Automação</span>
+
+</div>
+
+</details>
+
+</div>
+
+</div>
+
+
+<!-- =====================================================
+     PROJETO 4
+     ===================================================== -->
+
+<div class="carousel-item">
+
+<div class="ac-project-slide">
+
+<div class="row align-items-center">
+
+
+<div class="col-lg-6">
+
+<div class="ac-project-video">
+
+<video controls preload="none" playsinline>
+  <source src="imagens/video_site_casamento.mp4" type="video/mp4">
+</video>
+
+</div>
+
+</div>
+
+
+<div class="col-lg-6">
+
+<div class="ac-project-info">
+
+<div class="ac-project-number">
+04 — PROJETO PESSOAL
+</div>
+
+<span class="ac-badge ac-badge-gray">
+PROJETO PESSOAL
+</span>
+
+<h2>
+Plataforma web personalizada para casamento
+</h2>
+
+<p>
+Aplicação web criada do zero com identidade visual personalizada, informações do evento, confirmação de presença e lista de presentes.
+</p>
+
+<div class="ac-result">
+
+<div class="ac-result-number">
+100%
+</div>
+
+<div class="ac-result-label">
+experiência desenvolvida sob medida
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+<details class="ac-detail">
+
+<summary>
+Ver detalhes do projeto
+</summary>
+
+<h3>O projeto</h3>
+
+<p>
+Desenvolvemos uma plataforma web personalizada para um casamento, criada para substituir soluções genéricas de eventos por uma experiência visual construída especificamente para os anfitriões.
+</p>
+
+<p>
+O projeto foi desenvolvido como uma aplicação real e utilizada no próprio casamento.
+</p>
+
+
+<h3>Funcionalidades</h3>
+
+<ul>
+
+<li>Identidade visual personalizada;</li>
+<li>página inicial do evento;</li>
+<li>história do casal;</li>
+<li>informações da cerimônia;</li>
+<li>confirmação de presença;</li>
+<li>lista de presentes;</li>
+<li>organização das informações dos convidados;</li>
+<li>experiência personalizada para os participantes.</li>
+
+</ul>
+
+
+<h3>Possibilidades</h3>
+
+<p>
+A estrutura desenvolvida pode ser adaptada para:
+
+</p>
+
+<ul>
+
+<li>casamentos;</li>
+<li>aniversários;</li>
+<li>eventos corporativos;</li>
+<li>formaturas;</li>
+<li>conferências;</li>
+<li>páginas personalizadas;</li>
+<li>projetos especiais.</li>
+
+</ul>
+
+
+<h3>Arquitetura</h3>
+
+<div style="text-align: center; margin: 25px 0;">
+
+<span class="ac-tech">R</span>
+<span class="ac-tech">Quarto</span>
+<span class="ac-tech">HTML</span>
+<span class="ac-tech">CSS</span>
+<span class="ac-tech">JavaScript</span>
+<span class="ac-tech">Shiny</span>
+
+</div>
+
+</details>
+
+</div>
+
+</div>
+
+
+</div>
+
+
+<button class="carousel-control-prev"
+type="button"
+data-bs-target="#portfolioCarousel"
+data-bs-slide="prev">
+
+<span class="carousel-control-prev-icon"
+aria-hidden="true"></span>
+
+<span class="visually-hidden">
+Anterior
+</span>
+
+</button>
+
+
+<button class="carousel-control-next"
+type="button"
+data-bs-target="#portfolioCarousel"
+data-bs-slide="next">
+
+<span class="carousel-control-next-icon"
+aria-hidden="true"></span>
+
+<span class="visually-hidden">
+Próximo
+</span>
+
+</button>
+
+</div>
+
+
+<br>
+<hr>
+<br>
+
+
+<div class="ac-cta">
+
+<h2>
+Não encontrou exatamente o que procura?
+</h2>
+
+<p style="font-size: 1.15rem; color: #64748b; max-width: 700px; margin: 15px auto 30px auto;">
+Cada negócio possui processos diferentes. Se existe uma tarefa repetitiva, uma informação que precisa ser organizada ou um sistema que você gostaria de ter, podemos desenvolver uma solução sob medida.
+</p>
+
+<a href="index.html#contato" class="btn btn-success btn-lg px-5 py-3">
+Quero conversar sobre meu projeto
+</a>
+
+</div>

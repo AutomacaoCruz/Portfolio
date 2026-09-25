@@ -1,0 +1,246 @@
+---
+page-layout: full
+---
+
+::: {.column-screen-inset style="padding-top: 50px; padding-bottom: 60px;"}
+
+<div class="ac-hero">
+
+<div class="ac-hero-label">
+AUTOMAÇÕES CRUZ
+</div>
+
+<h1 style="font-size: 3rem;">
+Tecnologia com propósito
+</h1>
+
+<p style="font-size: 1.3rem; max-width: 800px; margin: 20px auto 0 auto; line-height: 1.7;">
+Desenvolvimento de software orientado a problemas reais.
+</p>
+
+</div>
+
+
+## Quem está por trás
+
+<div class="ac-profile">
+
+<div class="row align-items-center">
+
+
+<div class="col-lg-4">
+
+<img
+src="imagens/gabriel.jpeg"
+class="ac-profile-photo"
+style="object-fit: cover;"
+alt="Gabriel Vieira da Cruz">
+
+</div>
+
+
+<div class="col-lg-8">
+
+<h2>
+Gabriel Vieira da Cruz
+</h2>
+
+<p style="font-size: 1.15rem; color: #64748b;">
+Cientista de Dados Sênior • Estatístico • Fundador da Automações Cruz
+</p>
+
+<p>
+Sou Estatístico formado pela Universidade Federal Fluminense (UFF) e atuo no desenvolvimento de soluções analíticas e sistemas orientados a problemas reais.
+</p>
+
+<p>
+Minha experiência combina Ciência de Dados, automação, desenvolvimento de software, web scraping, Inteligência Artificial e construção de aplicações personalizadas.
+</p>
+
+<p>
+A Automações Cruz surgiu para aplicar essa experiência na criação de soluções tecnológicas sob medida.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+
+<br>
+
+
+## O que fazemos
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<div class="ac-card">
+
+<div class="ac-card-icon">
+🤖
+</div>
+
+<h3>
+Automação
+</h3>
+
+<p>
+Criamos processos capazes de executar tarefas automaticamente, reduzindo atividades repetitivas e operações manuais.
+</p>
+
+<p>
+<strong>Atendimento • Integrações • Processos</strong>
+</p>
+
+</div>
+
+:::
+
+::: {.column width="50%"}
+
+<div class="ac-card">
+
+<div class="ac-card-icon">
+🧠
+</div>
+
+<h3>
+Inteligência Artificial
+</h3>
+
+<p>
+Utilizamos IA quando ela realmente acrescenta valor ao processo.
+</p>
+
+<p>
+<strong>Texto • Áudio • Classificação • Extração</strong>
+</p>
+
+</div>
+
+:::
+
+::::
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<div class="ac-card">
+
+<div class="ac-card-icon">
+📊
+</div>
+
+<h3>
+Dados e dashboards
+</h3>
+
+<p>
+Transformamos dados de diferentes fontes em informações organizadas e visualizações úteis para decisão.
+</p>
+
+<p>
+<strong>Dashboards • Indicadores • Web Scraping</strong>
+</p>
+
+</div>
+
+:::
+
+::: {.column width="50%"}
+
+<div class="ac-card">
+
+<div class="ac-card-icon">
+🌐
+</div>
+
+<h3>
+Desenvolvimento web
+</h3>
+
+<p>
+Criamos aplicações e plataformas personalizadas quando uma solução pronta não atende à necessidade.
+</p>
+
+<p>
+<strong>Plataformas • Sistemas • Interfaces</strong>
+</p>
+
+</div>
+
+:::
+
+::::
+
+
+<br>
+<hr>
+<br>
+
+
+## Tecnologias
+
+<div style="text-align: center; margin: 30px auto 55px auto;">
+
+<span class="ac-tech">R</span>
+<span class="ac-tech">Shiny</span>
+<span class="ac-tech">Plumber</span>
+<span class="ac-tech">JavaScript</span>
+<span class="ac-tech">APIs</span>
+<span class="ac-tech">WhatsApp</span>
+<span class="ac-tech">Inteligência Artificial</span>
+<span class="ac-tech">Gemini</span>
+<span class="ac-tech">Google Sheets</span>
+<span class="ac-tech">Web Scraping</span>
+<span class="ac-tech">Dashboards</span>
+<span class="ac-tech">GitHub</span>
+
+</div>
+
+
+## Vamos conversar sobre seu projeto
+
+<div class="ac-cta">
+
+<h2>
+Existe um processo que consome tempo demais?
+</h2>
+
+<p class="fs-5 text-muted" style="max-width: 750px; margin: 20px auto 30px auto;">
+Podemos analisar como sua empresa trabalha hoje e identificar oportunidades para reduzir tarefas manuais, organizar informações e melhorar processos.
+</p>
+
+<a href="index.html#contato"
+class="btn btn-success btn-lg px-5 py-3">
+Quero conversar sobre um projeto
+</a>
+
+</div>
+
+
+<br>
+<hr>
+<br>
+
+
+## Para oportunidades profissionais
+
+<p class="fs-5 text-muted">
+Além dos projetos da Automações Cruz, este portfólio também apresenta minha experiência em Ciência de Dados, Estatística, automação e desenvolvimento de soluções analíticas.
+</p>
+
+<p>
+Para conhecer minha trajetória profissional completa:
+</p>
+
+<div style="text-align: center; margin: 30px 0 50px 0;">
+
+<a href="arquivos/CV_GABRIEL_VIEIRA_DA_CRUZ.pdf" class="btn btn-primary btn-lg px-5 py-3" target="_blank">Baixar currículo</a>
+
+</div>
