@@ -400,12 +400,27 @@ body {
 
 @media (max-width: 900px) {
 
-  /* =========================
-     GERAL
-     ========================= */
+  /* =====================================================
+     MOBILE — AJUSTES GERAIS
+     ===================================================== */
 
   body {
     overflow-x: hidden;
+  }
+
+  /* Evita que as colunas do Quarto fiquem lado a lado
+     em telas pequenas */
+  .columns {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  .columns > .column {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: none !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
   }
 
   .column-screen-inset {
@@ -414,12 +429,13 @@ body {
   }
 
 
-  /* =========================
+  /* =====================================================
      HERO
-     ========================= */
+     ===================================================== */
 
   .ac-hero {
     padding: 50px 20px;
+    margin-bottom: 45px;
   }
 
   .ac-hero h1 {
@@ -438,20 +454,29 @@ body {
   }
 
 
-  /* =========================
-     CARDS DA HOME
-     ========================= */
+  /* =====================================================
+     CARDS
+     ===================================================== */
 
   .ac-card {
-    height: auto;
-    min-height: 220px;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    min-height: 0 !important;
     margin-bottom: 20px;
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+  }
+
+  .ac-card p {
+    overflow-wrap: break-word;
+    word-break: normal;
   }
 
 
-  /* =========================
+  /* =====================================================
      PROJETOS
-     ========================= */
+     ===================================================== */
 
   .ac-project-slide {
     padding: 30px 20px 60px 20px;
@@ -472,24 +497,24 @@ body {
   }
 
 
-  /* =========================
+  /* =====================================================
      PERFIL / SOBRE
-     ========================= */
+     ===================================================== */
 
   .ac-profile {
     padding: 20px;
   }
 
   .ac-profile-photo {
-  width: 140px !important;
-  height: 140px !important;
-  margin-bottom: 25px;
-}
+    width: 140px !important;
+    height: 140px !important;
+    margin-bottom: 25px;
+  }
 
 
-  /* =========================
+  /* =====================================================
      TEXTOS
-     ========================= */
+     ===================================================== */
 
   h1 {
     font-size: 2.2rem;
@@ -504,18 +529,18 @@ body {
   }
 
 
-  /* =========================
+  /* =====================================================
      BOTÕES
-     ========================= */
+     ===================================================== */
 
   .btn {
     white-space: normal;
   }
 
 
-  /* =========================
+  /* =====================================================
      FLUXOS / SETAS
-     ========================= */
+     ===================================================== */
 
   .ac-flow {
     font-size: 0.95rem;
@@ -523,9 +548,9 @@ body {
   }
 
 
-  /* =========================
-     BLOCOS DE CONTATO
-     ========================= */
+  /* =====================================================
+     CONTATO
+     ===================================================== */
 
   #contato {
     padding: 35px 20px !important;
