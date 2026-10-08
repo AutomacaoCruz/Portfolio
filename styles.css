@@ -434,24 +434,27 @@ body {
      ===================================================== */
 
   .ac-hero {
-    padding: 50px 20px;
-    margin-bottom: 45px;
-  }
+  padding: 35px 20px;
+  margin-bottom: 40px;
+}
 
-  .ac-hero h1 {
-    font-size: 2.2rem;
-    line-height: 1.2;
-  }
+.ac-hero h1 {
+  font-size: 2.2rem !important;
+  line-height: 1.2 !important;
+  overflow-wrap: break-word;
+  word-break: normal;
+}
 
-  .ac-hero p {
-    font-size: 1.1rem;
-  }
+.ac-hero p {
+  font-size: 1rem !important;
+  line-height: 1.6 !important;
+}
 
-  .ac-hero .btn {
-    display: block;
-    width: 100%;
-    margin: 10px 0 !important;
-  }
+.ac-hero .btn {
+  display: block;
+  width: 100%;
+  margin: 10px 0 !important;
+}
 
 
   /* =====================================================
