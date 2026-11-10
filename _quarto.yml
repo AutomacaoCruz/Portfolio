@@ -4,6 +4,7 @@ project:
     - "imagens/capa_*.jpg"
     - "CNAME"
     - "imagens/*.mp4"
+    - "googleeee9569ebc3e6e26.html"
 
 website:
   title: "Automações Cruz | Desenvolvimento de Software e Automações"
